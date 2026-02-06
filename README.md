@@ -17,7 +17,7 @@ This project focuses on detecting fraudulent credit card transactions using Mach
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib / Seaborn
-
+  
 ## Objective
 To understand the end-to-end machine learning workflow and apply it to a real-world fraud detection problem.
 
